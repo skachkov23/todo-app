@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/todo-app/static/css/main.33018dd0.css",
+    "main.js": "/todo-app/static/js/main.6a760064.js",
+    "static/media/fa-solid-900.woff2": "/todo-app/static/media/fa-solid-900.0ae4e6254fc19607c79e.woff2",
+    "static/media/fa-brands-400.woff2": "/todo-app/static/media/fa-brands-400.e7461d69dbbff1310a5c.woff2",
+    "static/media/fa-regular-400.woff2": "/todo-app/static/media/fa-regular-400.1f38a564cd9eae27ebc3.woff2",
+    "static/media/fa-v4compatibility.woff2": "/todo-app/static/media/fa-v4compatibility.661bd6b7245d5205d3e1.woff2",
+    "index.html": "/todo-app/index.html",
+    "main.33018dd0.css.map": "/todo-app/static/css/main.33018dd0.css.map",
+    "main.6a760064.js.map": "/todo-app/static/js/main.6a760064.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33018dd0.css",
+    "static/js/main.6a760064.js"
+  ]
+}
